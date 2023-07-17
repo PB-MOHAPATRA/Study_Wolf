@@ -1,0 +1,12 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+
+}
+.d-flex justify-content-center mx-4 mb-3 mb-lg-4
+{
+    color: #e1affd;
+}
